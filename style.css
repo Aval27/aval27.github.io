@@ -1,3 +1,8 @@
 body {
   background-image: url("myBackground.jpg");
 }
+
+.banner {
+    height:500em;
+    width:200em;
+}
